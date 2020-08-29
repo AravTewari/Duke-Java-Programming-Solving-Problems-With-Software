@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\r\n\ Using\ the\ Simplified\ Algortithm\ Reorganized\r\n\ \r\n\ @author\ Arav\ Tewari\ \r\n\ @version\ July\ 1,\ 2020\r\n
+comment1.params=dna\ startCodon\ stopCodon
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+numComments=3
